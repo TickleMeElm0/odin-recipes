@@ -1,5 +1,5 @@
 .button {
-    background-color: blue; 
+    background-color: rgb(6, 150, 239); 
     border-style: solid;
     color: white;
     padding: 15px 32px;
@@ -7,4 +7,12 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+  }
+
+  .header{
+    font-size: xx-large;
+    text-align: center;
+    margin: 0 auto;
+    padding: 40px;
+    width: 980px;
   }
